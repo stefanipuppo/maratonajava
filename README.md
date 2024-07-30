@@ -1,5 +1,17 @@
-Acompanhando o canal no Youtube do DevDojo.
+# Acompanhando o canal no Youtube do DevDojo.
 
-IDE - Intellij
+A introdução e primeira parte das videoaulas estao no repositorio maratona-java e foi realizado no IDE vscode.
 
-primeira parte das videoaulas estao no repositorio maratona-java e foi realizado no IDE vscode.
+### Neste repositório, abordaremos:
+
+- Polimorfismo
+- Interface
+- Classes abstratas
+- Enum
+- Sobrescrita
+- Herança
+- Assosiação
+- Oxeption
+
+### IDE ultilizada:
+- Intelij
